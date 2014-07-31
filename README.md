@@ -1,6 +1,5 @@
 Node-and-Express.js-Project
 ===========================
 
-Please look at the project url
-
-http://rouxmeet-sumit.herokuapp.com/
+Project url: http://rouxmeet-sumit.herokuapp.com/
+Source code url : http://sumitkaul.github.io/Node-and-Express.js-Project/
